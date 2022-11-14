@@ -6436,3 +6436,10 @@ html, body {
   align-self: center;
   text-align: center;
 }
+.videoc {display: flex;
+justify-content: center;
+align-items: center;
+align-self: center;
+position: center;
+margin-top: 50px;
+}
