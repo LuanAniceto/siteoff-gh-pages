@@ -6421,3 +6421,18 @@ html, body {
 
 .cover {
   min-height: 100%; }
+
+.video{ display: flex;
+  justify-content: center;
+  position: center;
+  flex-direction: row;
+  gap: 80px;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.videotext{
+  display: flex;
+  align-self: center;
+  text-align: center;
+}
